@@ -1,0 +1,25 @@
+{
+
+"Logger":{
+        "Logger": "dtiostore.log",
+        "MaxSize": 1048576,
+        "Console": "false"
+},
+
+
+"SsdbSyncServer":{
+                "Ip": "139.196.108.155",
+                "Port": "3333",
+                "DbNames": "junsie",
+                "Logger": ""
+                },
+
+"Redis":{
+    "Ip": "139.196.108.155",
+    "Port": "3333",
+    "Password":"1qaz2wsx"
+}
+
+}
+
+

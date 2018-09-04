@@ -1,0 +1,24 @@
+{
+    "Logger":{
+        "Logger": "xymall.log",
+        "MaxSize": 1048576
+    },
+    "Net":{
+        "Session":"true",
+        "Get":"false"
+    },
+    "Http":{
+        "Ip": "",
+        "Listen": "8699",
+        "Name": "MALL",
+        "Logger": ""
+    },
+    "Https":{
+        "Ip": "",
+        "Listen": "8696",
+        "Name": "MALL",
+        "Pem":"server.crt",
+        "Key":"server.key",
+        "Logger": ""
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Logger":{
+        "Logger": "searcher.log",
+        "MaxSize": 1048576,
+        "Console": "true"
+    },
+    "Searcher":{
+        "Dict":"./dict/dictionary.txt",
+        "StopToken":"./dict/stop_tokens.txt",
+        "Dir":"data",
+        "Port":"5135"
+    },
+    "Redis":{
+        "Ip": "139.196.108.155",
+        "Port": "6379",
+        "Password":"1qaz2wsx"
+    }
+}

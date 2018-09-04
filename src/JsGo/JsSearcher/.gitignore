@@ -1,0 +1,5 @@
+JsSearcher
+JsSearcher.exe
+!.gitignore
+data/
+log/

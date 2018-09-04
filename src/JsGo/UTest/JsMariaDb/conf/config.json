@@ -1,0 +1,12 @@
+{
+    "Logger":{
+        "Logger": "mariadb.log",
+        "MaxSize": 1048576
+    },
+    "Http":{
+        "Ip": "",
+        "Listen": "8699",
+        "Name": "Maria",
+        "Logger": ""
+    }
+}
